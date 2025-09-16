@@ -2,7 +2,7 @@
 - 👀 I’m interested in Highly & Scalable Systems
 - 🌱 I’m currently learning Python Programming Language & System design at scale
 - 💞️ I’m looking to collaborate on some fun projects
-- 📫 How to reach me tunglam195@gmail.com | yourmindhasgone@gmail.com | [t.me/@Lampvux](https://t.me/@Lampvux)
+- 📫 How to reach me  yourmindhasgone@gmail.com | [t.me/@Lampvux](https://t.me/@Lampvux)
 
 
 
